@@ -1,6 +1,3 @@
-# Fisica.py
-# Archivo para funciones y cálculos de física
-
 def calcular_distancia(velocidad, tiempo):
     """
     Calcula la distancia recorrida en un movimiento rectilíneo uniforme.
