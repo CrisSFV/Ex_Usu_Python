@@ -1,5 +1,3 @@
-
-
 from flask import request, render_template_string
 
 def calcular_puntaje(correctas, incorrectas, blanco):
